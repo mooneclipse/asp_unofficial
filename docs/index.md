@@ -5,9 +5,10 @@ title: トップページ
 
 # ここは何？
 
-みんなを笑顔にしたいVtuberグループAllSmilingProjectの非公式ファンサイトです。
+みんなを笑顔の輪でつなげる今は小さなプロジェクトAllSmilingProjectの非公式ファンサイトです。
 
 # コンテンツ
 
-(柴こはる耐久配信みどころ集)<docs\shibako_endurance_20210327.html>
+[柴こはる耐久配信みどころ集（前半戦）](.\shibako_endurance_20210327_part1.html)
 
+[柴こはる耐久配信みどころ集（後半戦）](.\shibako_endurance_20210327_part2.html)
