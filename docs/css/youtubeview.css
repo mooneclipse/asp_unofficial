@@ -2,26 +2,26 @@
 
 .frame {
     font-size: 0px;
-    margin: auto;
-    min-width: 1280px;
 }
 .main_contents {
     display: inline-block;
     font-size: 16px;
-    width: 70%;
-}
-.main_contents iframe {
-    width: 100%;
 }
 .navi_contents {
     display: inline-block;
     font-size: 16px;
-    width: 30%;
     vertical-align: top;
 }
 .navi_contents ul {
     list-style: none;
 }
+.navi_contents li {
+    margin: 5px;
+}
+.navi_contents li:empty {
+    height: 20px;
+}
 .chapter {
     color: blue;
+    cursor: pointer;
 }

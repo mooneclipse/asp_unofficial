@@ -9,6 +9,6 @@ title: トップページ
 
 # コンテンツ
 
-[柴こはる耐久配信みどころ集（前半戦）](.\shibako_endurance_20210327_part1.html)
+[柴こはるさん耐久配信みどころ集（前半戦）](.\shibako_endurance_20210327_part1.html)
 
-[柴こはる耐久配信みどころ集（後半戦）](.\shibako_endurance_20210327_part2.html)
+[柴こはるさん耐久配信みどころ集（後半戦）](.\shibako_endurance_20210327_part2.html)
