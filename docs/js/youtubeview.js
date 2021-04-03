@@ -11,7 +11,7 @@ function onYouTubeIframeAPIReady() {
 }
 
 // ボタンクリック時の操作
-document.getElementById('play').addEventListener('click', function() {
+document.getElementById("play").addEventListener("click", function() {
   player.playVideo();
 }, false);
  
