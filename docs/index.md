@@ -122,7 +122,7 @@ title: トップページ
   
 ||コピペ用|リンク|
 |:--|--|--|
-|布教タグ|#ASP布教し隊|[link](https://twitter.com/search?q=%23ASP%E5%B8%83%E6%95%99%E3%81%97%E9%9A%8A)|
-|イラストタグ|#ASP描き隊|[link](https://twitter.com/search?q=%23ASP%E6%8F%8F%E3%81%8D%E9%9A%8A)|
-|ASP内フリー素材|#ASP王国宝|[link](https://twitter.com/search?q=%23ASP%E7%8E%8B%E5%9B%BD%E5%AE%9D)|
+|布教タグ|#ASP布教し隊|[link](https://twitter.com/hashtag/ASP%E5%B8%83%E6%95%99%E3%81%97%E9%9A%8A)|
+|イラストタグ|#ASP描き隊|[link](https://twitter.com/hashtag/ASP%E6%8F%8F%E3%81%8D%E9%9A%8A)|
+|ASP内フリー素材|#ASP王国宝|[link](https://twitter.com/hashtag/ASP%E7%8E%8B%E5%9B%BD%E5%AE%9D)|
 
