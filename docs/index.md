@@ -1,10 +1,15 @@
+---
+layout: default
+title: トップページ
+---
+
 # 目次
 * [ここは何？](#ここは何？)
 * Vメンバー
-    * [柴こはる](#柴こはる)
-    * [羽黒鴉](#羽黒鴉)
-    * [騒義乃イズ](#騒義乃イズ)
-* [ASP公式](#ASP公式)
+  * [柴こはる](#柴こはる)
+  * [羽黒鴉](#羽黒鴉)
+  * [騒義乃イズ](#騒義乃イズ)
+  * [ASP公式](#ASP公式)
 
 
 # ここは何？
@@ -13,7 +18,7 @@
   主にハッシュタグとかコピペしたりするときに必要なものを掲載してます。
 
 - AllSmilingProjectって何？って方は公式サイトやサイト内に掲載されているツイッターとかチャンネルから各アーカイブなどをみたりして、ぜひここに戻ってきてください。  
-https://allsmilingproject1.wixsite.com/mysite
+<https://allsmilingproject1.wixsite.com/mysite>
 
 - 作成者：mooneclipse63（[Twitter](https://twitter.com/mooneclipse63)）  
 間違っているところや追加の要望などありましたらツイッターにリプライかDMをください。   
@@ -31,10 +36,10 @@ https://allsmilingproject1.wixsite.com/mysite
 
 ## 柴こはる
 
-### youtubeチャンネル  [link](https://www.youtube.com/channel/UC7CDM9McIYOAueqSjIEmfDg)
+### YouTubeチャンネル  [link](https://www.youtube.com/channel/UC7CDM9McIYOAueqSjIEmfDg)
 `https://www.youtube.com/channel/UC7CDM9McIYOAueqSjIEmfDg`
 
-### twitter  [link](https://twitter.com/shiba_Koharurun)  
+### Twitter  [link](https://twitter.com/shiba_Koharurun)  
 `https://twitter.com/shiba_Koharurun`
 
 ### ファンネーム
@@ -56,10 +61,10 @@ https://allsmilingproject1.wixsite.com/mysite
 
 ## 羽黒鴉
 
-### youtubeチャンネル  [link](https://www.youtube.com/channel/UCfMTy1v9dlI6QcGgl9sBo2Q)
+### YouTubeチャンネル  [link](https://www.youtube.com/channel/UCfMTy1v9dlI6QcGgl9sBo2Q)
 `https://www.youtube.com/channel/UCfMTy1v9dlI6QcGgl9sBo2Q`
 
-### twitter  [link](https://twitter.com/rei_haguro)  
+### Twitter  [link](https://twitter.com/rei_haguro)  
 `https://twitter.com/rei_haguro`
 
 ### ファンネーム
@@ -81,10 +86,10 @@ https://allsmilingproject1.wixsite.com/mysite
 
 ## 騒義乃イズ
 
-### youtubeチャンネル  [link](https://www.youtube.com/channel/UCDcTSsimdF2-iLD_fZPiVgQ)
+### YouTubeチャンネル  [link](https://www.youtube.com/channel/UCDcTSsimdF2-iLD_fZPiVgQ)
 `https://www.youtube.com/channel/UCDcTSsimdF2-iLD_fZPiVgQ`
 
-### twitter  [link](https://twitter.com/Sawagino_IZ)  
+### Twitter  [link](https://twitter.com/Sawagino_IZ)  
 `https://twitter.com/Sawagino_IZ`
 
 ### ファンネーム
@@ -105,11 +110,11 @@ https://allsmilingproject1.wixsite.com/mysite
 
 ## ASP公式
 
-### youtubeチャンネル  [link](https://www.youtube.com/channel/UCXzENJj_dV3VOatBkkYhgvQ)
+### YouTubeチャンネル  [link](https://www.youtube.com/channel/UCXzENJj_dV3VOatBkkYhgvQ)
 
 `https://www.youtube.com/channel/UCXzENJj_dV3VOatBkkYhgvQ`
 
-### twitter  [link](https://twitter.com/AllSmilingPro2)  
+### Twitter  [link](https://twitter.com/AllSmilingPro2)  
 
 `https://twitter.com/AllSmilingPro2`
 
@@ -118,6 +123,6 @@ https://allsmilingproject1.wixsite.com/mysite
 ||コピペ用|リンク|
 |:--|--|--|
 |布教タグ|#ASP布教し隊|[link](https://twitter.com/hashtag/%E3%82%A8%E3%82%B4izm)|
-|イラストタグ|#ASP描き隊|[link](https://twitter.com/search?q=%23ASP%E6%8F%8F%E3%81%8D%E9%9A%8A)|
+|イラストタグ|#ASP描き隊|[link](https://twitter.com/search?q=%23ASP%E5%B8%83%E6%95%99%E3%81%97%E9%9A%8A)|
 |ASP内フリー素材|#ASP王国宝|[link](https://twitter.com/search?q=%23ASP%E7%8E%8B%E5%9B%BD%E5%AE%9D)|
 
