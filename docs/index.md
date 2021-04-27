@@ -59,6 +59,8 @@ title: トップページ
 
 [ハッシュタグ掲載ツイート](https://twitter.com/shiba_Koharurun/status/1351431168705531907)
 
+[全身図](https://twitter.com/shiba_Koharurun/status/1340914921228312576)
+
 ## 羽黒鴉
 
 ### YouTubeチャンネル  [link](https://www.youtube.com/channel/UCfMTy1v9dlI6QcGgl9sBo2Q)
@@ -84,6 +86,8 @@ title: トップページ
 
 [ハッシュタグ掲載ツイート](https://twitter.com/rei_haguro/status/1350808220059648003)
 
+[三面図](https://twitter.com/rei_haguro/status/1379379767703711746)
+
 ## 騒義乃イズ
 
 ### YouTubeチャンネル  [link](https://www.youtube.com/channel/UCDcTSsimdF2-iLD_fZPiVgQ)
@@ -94,7 +98,7 @@ title: トップページ
 
 ### ファンネーム
 
-ぽまえら（ファンネーム？）
+なし（騒義乃はリスナーのことを「ぽまえら」と呼んでいる）
 
 ### ハッシュタグ
   
@@ -107,6 +111,8 @@ title: トップページ
 ### そのほか
 
 [ハッシュタグ掲載ツイート](https://twitter.com/Sawagino_IZ/status/1360217868432859136)
+
+[三面図](https://twitter.com/Sawagino_IZ/status/1379311700604678144)
 
 ## ASP公式
 
