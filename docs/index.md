@@ -96,10 +96,6 @@ title: トップページ
 ### Twitter  [link](https://twitter.com/Sawagino_IZ)  
 `https://twitter.com/Sawagino_IZ`
 
-### ファンネーム
-
-なし（騒義乃はリスナーのことを「ぽまえら」と呼んでいる）
-
 ### ハッシュタグ
   
 ||コピペ用|リンク|
