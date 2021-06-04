@@ -61,6 +61,10 @@ title: トップページ
 
 [全身図](https://twitter.com/shiba_Koharurun/status/1340914921228312576)
 
+[Vtuber10人分イラスト作成耐久＋タイムテーブル（前半戦）](https://mooneclipse.github.io/asp_unofficial/shibako_taikyu_part1.html)
+
+[Vtuber10人分イラスト作成耐久＋タイムテーブル（後半戦）](https://mooneclipse.github.io/asp_unofficial/shibako_taikyu_part2.html)
+
 ## 羽黒鴉
 
 ### YouTubeチャンネル  [link](https://www.youtube.com/channel/UCfMTy1v9dlI6QcGgl9sBo2Q)

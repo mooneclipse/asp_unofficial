@@ -1,25 +1,29 @@
 @charset "UTF-8";
 
 body {
-    background-color: #d7f1bc;
+    background-color: #caffbf;
     font-family: "Helvetica Neue", "Helvetica", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Arial", "Yu Gothic", "Meiryo", sans-serif;
+    font-weight: bold;
 }
 #wrap {
     width: 700px;
-    margin: auto;
-    background-color: #ffe881;
+    margin: 20px auto;
+    background-color: #fdffb6;
     padding: 20px;
     border-radius:30px;
 }
 #playerbox {
     margin-left: 25px;
 }
-a {
-    color: #09308a;
+.youtube-red {
+    color: #Ff0000;
+}
+.tw-blue {
+    color: #1da1f2
 }
 .navi_contents {
     display: inline-block;
-    font-size: 16px;
+    font-size: 20px;
     vertical-align: top;
 }
 .navi_contents ul {
@@ -32,6 +36,6 @@ a {
     height: 20px;
 }
 .chapter {
-    color: #09308a;
+    color: #f3722c;
     cursor: pointer;
 }
