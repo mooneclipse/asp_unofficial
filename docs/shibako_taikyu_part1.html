@@ -1,0 +1,132 @@
+---
+layout: default
+title: 柴こはる耐久前半戦
+---
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8" />
+      <title>柴こはる耐久前半戦</title>
+      <link rel="stylesheet" type="text/css" href="./css/youtubeview.css" />
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+      <script>
+         $(function(){
+            var player;
+            var videoID="twwieajwZKg";
+            /* IFrame Player APIのコードをロード */
+            function fGetScript(){
+               $.ajax({
+                  url:"http://www.youtube.com/player_api/",
+                  dataType:"script",
+                  success:function(data){
+                     dbg("done");
+                  },
+                  error:function(xhr, status, thrown) {
+                     dbg(xhr);
+                     fGetScript();
+                  }
+               }); 
+            }
+            fGetScript();
+            /* プレーヤーの準備完了時 */
+            window.onYouTubeIframeAPIReady=function() {
+               dbg("onYouTubeIframeAPIReady");
+               loadPlayer(videoID);
+            }
+            /* プレーヤー生成 */
+            function loadPlayer(videoID) {
+               dbg("loadPlayer("+videoID+")");
+               if(!player){
+                  player = new YT.Player(
+                     'player',{
+                        width: '640',   /* 動画プレーヤーの幅 */
+                        height: '390',   /* 動画プレーヤーの高さ */
+                        videoId: videoID,   /* YouTube動画ID */
+                        events: { /* イベント */
+                           "onReady": onPlayerReady,   /* プレーヤの準備完了時 */
+                           "onStateChange": onPlayerStateChange,   /* 動画プレーヤーのステータス変更 */
+                        },
+                        playerVars: {
+                           "rel":0,         // 関連動画の有無(default:1)
+                           "showinfo":0,      // 動画情報表示(default:1)
+                           "controls":1      // コントロール有無(default:1)
+                        }
+                     }
+                  );
+               }else{
+                  player.loadVideoById(videoID);
+               }
+            }
+            function onPlayerReady(event){
+               dbg("onPlayerReady");
+               /* プレーヤの準備完了時 */
+            }
+            function onPlayerStateChange(event) {
+               /* プレーヤーのステータスが変更される度に発生 */
+               dbg("PlayerState:"+event.data);
+               switch(event.data){
+                  case YT.PlayerState.ENDED:
+                  case YT.PlayerState.PAUSED:
+                  case YT.PlayerState.CUED:
+                     $("#play").html("再生");
+                     break;
+                  case YT.PlayerState.PLAYING:
+                  case YT.PlayerState.BUFFERING:
+                     $("#play").html("一時停止");
+                     break;
+                  default:
+                     $("#play").html("再生");
+                     break;
+               }
+            }
+            function play(){
+               dbg("play");
+               player.playVideo(); /* 再生 */
+               $(this).html("一時停止");
+            }
+            $(".chapter").click(function(){
+                // ボタンクリック時の操作
+                let target = $(this).text();
+                console.log("target:" + target);
+                var hours = parseInt(target.split(":")[0]);
+                var mins = parseInt(target.split(":")[1]);
+                var secs = parseInt(target.split(":")[2]);
+                mins += hours * 60;
+                secs += mins * 60;
+
+                player.seekTo(secs,true);
+                play();
+            });
+            function dbg(str){
+               $("#debuglog").val(str+"\n"+$("#debuglog").val());
+                  if(window.console && window.console.log){
+                    console.log(str);
+                  }
+            }
+         });
+      </script>
+    <body id='example3' class='example'>
+        <div class="ads" style="margin:32px auto;text-align:center;"></div>
+        <div id="wrap">
+            <div id="playerbox"><div id='player'><!-- 動画プレーヤーの埋め込み --></div></div>
+            <div class="navi_contents">
+            <ul>
+                <li><span class="chapter">0:3:50</span>～ OP</li>
+                <li></li>
+                <li><span class="chapter">0:21:00</span>～2:13:00 <span class="vtuber_name"><a href="https://www.youtube.com/channel/UCOYiDjOeI-_I8ZZhdiJ7-8w">ビビアン・レッドドアさん</a></span></li>
+                <li><span class="chapter">2:13:30</span>～4:41:38 <span class="vtuber_name"><a href="https://www.youtube.com/channel/UCwFK2NXpcPZUtTqs8hMKZGQ">梅咲瑞葉さん</a></span></li>
+                <li></li>
+                <li><span class="chapter">4:45:26</span>～ ラジオ体操第一</li>
+                <li><span class="chapter">4:50:30</span>～ ラジオ体操第二</li>
+                <li></li>
+                <li><span class="chapter">4:54:55</span>～7:10:30 <span class="vtuber_name"><a href="https://www.youtube.com/channel/UCIoOs6eeA9XUaeoVzIJoYyw">ティリー(Tilly)さん</a></span></li>
+                <li><span class="chapter">7:11:22</span>～9:39:48 <span class="vtuber_name"><a href="https://www.youtube.com/channel/UCMU-IIF5vR3LYS8vRubJ2Ag">白咲むくさん</a></span></li>
+                <li></li>
+            </ul>
+            <div>
+                タイムテーブル作成：しぶちん。さん（<a href="https://twitter.com/obscure_amber">@obscure_amber</a>）
+            </div>
+        </div>
+        </div>
+   </body>
+</html>
