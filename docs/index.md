@@ -10,7 +10,7 @@ title: トップページ
   * [騒義乃イズ](#騒義乃イズ)
   * [ASP公式](#asp公式)
 * 卒業メンバー
-  * [柴こはる](#柴こはる（2021/6/5卒業）)
+  * [柴こはる](#柴こはる)
 
 
 
@@ -106,7 +106,8 @@ title: トップページ
 
 # 卒業メンバー
 
-## 柴こはる（2021/6/5卒業）
+## 柴こはる
+（2021/6/5卒業）
 
 ### YouTubeチャンネル（アーカイブ非公開）  [link](https://www.youtube.com/channel/UC7CDM9McIYOAueqSjIEmfDg)
 `https://www.youtube.com/channel/UC7CDM9McIYOAueqSjIEmfDg`
