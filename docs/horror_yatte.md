@@ -47,3 +47,6 @@ Steam/英語
 
 - [DYING: Reborn](https://store.steampowered.com/app/699700/DYING_Reborn/)  
 Steam/日本語あり
+
+- [Neverending Nightmares](https://store.steampowered.com/app/253330/Neverending_Nightmares)
+Steam/日本語あり
