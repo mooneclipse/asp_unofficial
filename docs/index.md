@@ -43,9 +43,13 @@ title: トップページ
 ### Twitter  [link](https://twitter.com/rei_haguro)  
 `https://twitter.com/rei_haguro`
 
+### 推しマーク
+
+🗡
+
 ### ファンネーム
 
-子鴉
+小鴉
 
 ### ハッシュタグ
   
@@ -69,6 +73,15 @@ title: トップページ
 
 ### Twitter  [link](https://twitter.com/Sawagino_IZ)  
 `https://twitter.com/Sawagino_IZ`
+
+### 推しマーク
+
+⚡
+→迷走中とのこと
+
+### ファンネーム
+
+ぎのぽ（さわぎののぽたく）
 
 ### ハッシュタグ
   
